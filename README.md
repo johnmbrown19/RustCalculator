@@ -20,7 +20,7 @@ This repository contains a simple calculator program written in Rust. The progra
 2. Navigate to the cloned directory:
   cd rust-calculator
 
-3.Build and run the program:
+3. Build and run the program:
   cargo run
 
 ### How to Use
