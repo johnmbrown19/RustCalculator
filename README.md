@@ -15,13 +15,13 @@ This repository contains a simple calculator program written in Rust. The progra
 
 ### Installation and Running the Program
 1. **Clone the repository** to your local machine:
-   git clone https://github.com/johnmbrown19/rust-calculator.git
+   git clone https://github.com/johnmbrown19/RustCalculator.git
 
 2. Navigate to the cloned directory:
-  cd rust-calculator
+   cd rust-calculator
 
 3. Build and run the program:
-  cargo run
+   cargo run
 
 ### How to Use
 Upon running the program, you will be prompted to enter two numbers and an operator (+, -, *, /).
