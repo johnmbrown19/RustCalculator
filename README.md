@@ -18,7 +18,7 @@ This repository contains a simple calculator program written in Rust. The progra
    git clone https://github.com/johnmbrown19/RustCalculator.git
 
 2. Navigate to the cloned directory:
-   cd rust-calculator
+   cd RustCalculator
 
 3. Build and run the program:
    cargo run
